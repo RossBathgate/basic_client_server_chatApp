@@ -1,0 +1,1 @@
+setx path "%PATH%;C:\Project\Bin"
